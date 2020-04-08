@@ -1,5 +1,7 @@
 # Smart_home
 
+Deployed page: https://arvis00.github.io/Smart_home/dist/
+
 Demo project (unfinished) using CSS and vanilla Javascript. 
 - Fluid scroll behaviour with fade in/out and scaled text. 
 - Scroll progress bar in nav bar
